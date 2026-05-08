@@ -8,8 +8,7 @@
  * import ConsultaCard from './src/components/ConsultaCard';
  */
 
-export { default as ConsultaCard } from "./ConsultaCard";
-
+export { default as ConsultaCard } from "../components/consultaCard"
 /**
  * Conforme criarmos mais componentes, adicionaremos aqui:
  * 
